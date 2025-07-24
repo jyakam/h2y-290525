@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "@adiwajshing/baileys": "github:WhiskeySockets/Baileys",
+    "@adiwajshing/baileys": "^6.9.0",
     "@adiwajshing/keyed-db": "0.2.4",
     "@builderbot/bot": "1.2.5",
     "@builderbot/provider-baileys": "1.2.5",
